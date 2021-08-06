@@ -12,8 +12,8 @@ that will allow the user to easily assess and reach out to their desired profile
 - Programming Language (C, C++, Java, Python, JavaScript, PHP, etc.)
 
 For large searches, this program may take extended periods of time to finish running, as GitHub will flag too many requests
-from a given IP address to its servers. Thus, for every profile viewed, there is a 1 second delay placed on the next search,
-and for every search page viewed, there is a 7 second delay placed.
+from a given IP address to its servers. Thus, for every profile viewed, there is a 1.5 second delay placed on the next search,
+and for every search page viewed, there is a 10 second delay placed.
 
 ### Usage
 >__"all"__ for [language] or [degree] denotes no filter on coding language or degree level
