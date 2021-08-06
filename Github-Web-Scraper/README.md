@@ -1,4 +1,4 @@
-# README.md - GitHub Web Scraper
+# README.md - Github Web Scraper
 ### Author - Spencer Warezak
 ### Description:
 This program scrapes profiles from GitHub based on command line inputs made by the user. It assumes that all command line
