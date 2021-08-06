@@ -15,6 +15,8 @@ For large searches, this program may take extended periods of time to finish run
 from a given IP address to its servers. Thus, for every profile viewed, there is a 1.5 second delay placed on the next search,
 and for every search page viewed, there is a 10 second delay placed.
 
+After pulling this code, to compile, input in your terminal `javac WebScraper.java Webpage.java GithubSearch.java GithubProfile.java`.
+
 ### Usage
 >__"all"__ for [language] or [degree] denotes no filter on coding language or degree level
 
