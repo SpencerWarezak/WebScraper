@@ -1,0 +1,143 @@
+Beihang
+北航
+Beihang University
+北京航空航天大学
+USTC
+中科大
+University of Science and Technology of China
+中国科学技术大学
+UESTC
+成电
+University of Electronic Science and Technology of China
+电子科技大学
+BUPT
+北邮
+Beijing University of Posts and Telecommunications
+北京邮电大学
+ZJU
+浙大
+Zhejiang University
+浙江大学
+HIT
+哈工大
+Harbin Institute of Technology
+哈尔滨理工大学
+BIT
+北工大
+Beijing Institute of Technology
+北京理工大学
+STU
+上科大
+ShanghaiTech University
+上海科技大学
+Fudan University
+复旦大学
+XJTU
+西交大
+Xi’an Jiaotong University
+西安交通大学
+Xidian
+西电
+Xidian University
+西安电子科技大学
+HUST
+Huazhong University of Science and Technology
+华中科技大学
+NPU
+Northwestern Polytechnical University
+西工大
+NJU
+NU
+南大
+Nanjing University
+南京大学
+SUST
+南科大
+Southern University of Science and Technology
+南方科技大学
+NKU
+南开
+Nankai University
+南开大学
+HKUST
+港科大
+Hong Kong University of Science and Technology
+香港科技大学
+HKUSTSZ
+Hong Kong University of Science and Technology, Shenzhen
+香港科技大学深圳
+SZU
+深大
+Shenzhen University
+深圳大学
+BISTU
+Beijing Information Science & Technology University
+北京信息科技大学
+北信科
+NYU Shanghai Campus
+BJTU
+Beijing Jiaotong University
+北京交通大学
+北交大
+TJU
+天大
+Tianjin University
+天津大学
+HDU
+Hangzhou Dianzi University
+杭州电子科技大学
+SIT
+Shanghai Institute of Tech
+上海应用技术大学
+SUFE
+Shanghai University of Finance and Economics
+上海财经大学
+Sun Yat Sen University
+中山大学
+Peking University
+PKU
+北京大学
+北大
+Tsinghua University
+Tsinghua
+TSU
+清华大学
+清华
+Fudan
+复旦
+SJTU
+Shanghai Jiaotong University
+Shanghai Jiaotong
+上海交通大学
+上交大
+University of Science and Technology of China
+中国科学技术大学
+Harvard
+Princeton
+Yale
+MIT
+Penn
+Brown
+Columbia
+Cornell
+Dartmouth
+UCLA
+Cal
+Berkeley
+UCB
+UC Berkeley
+UCSD
+CMU
+Carnegie Mellon University
+Carnegie Mellon
+Michigan
+University of Michigan
+UofM
+U of M
+Umich
+Nanyang Technological University
+NTU
+University of Cambridge
+Cambridge
+University of Oxford
+Oxford
